@@ -1,0 +1,7 @@
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\bin\Debug\FSD_Phase1.exe.config
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\bin\Debug\FSD_Phase1.exe
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\bin\Debug\FSD_Phase1.pdb
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\obj\Debug\FSD_Phase1.csprojAssemblyReference.cache
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\obj\Debug\FSD_Phase1.csproj.CoreCompileInputs.cache
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\obj\Debug\FSD_Phase1.exe
+C:\FSD_Project\FSD_Rainbow\FSD_Phase1\obj\Debug\FSD_Phase1.pdb

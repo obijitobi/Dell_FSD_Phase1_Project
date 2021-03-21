@@ -1,0 +1,11 @@
+RS001:Abhijit:10th:A
+RS002:Robert:11th:B
+RS003:Mr Plant:12th:A
+RS004:Jimmy:8th:A
+RS005:Mr Page:9th:B
+RS006:Linda:6th:B
+RS007:Mr Star:11th:C
+RS008:Mr Biswas:12th:A
+RS001:Kurt Cobain:11th:A
+RS010:Chris Cornell:9th:A
+RS011:Bhawna:12th:A
